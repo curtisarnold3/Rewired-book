@@ -6,6 +6,8 @@ A behavioral-change book that translates neuroscience and behavioral psychology 
 
 Most change advice is built for the wrong brain. REWIRED starts from how the brain actually decides, filters, and automates behavior, then hands you a day-by-day system to reprogram your defaults instead of white-knuckling them.
 
+> **▶ Get the app.** REWIRED is the companion to the **[startrewired.com](https://www.startrewired.com)** app, which walks you through the full 66-day protocol day by day. Read here; do the work there.
+
 ## How to read
 
 The book is split into one file per chapter inside the [`chapters/`](chapters/) folder. Start with [Chapter 1](chapters/01-the-confession.md) and use the **Previous · Contents · Next** links at the bottom of each chapter to move through it. Every file also has GitHub's built-in outline (the list icon at the top-right of the file view) for jumping between sections.

@@ -1,5 +1,7 @@
 # Chapter 11: Week One: Interruption
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## Week One: Interruption
 
 Days 1-7 Week One doesn't build anything. That's not what it's for.
@@ -337,5 +339,7 @@ Wood, Wendy. \*Good Habits, Bad Habits: The Science of Making Positive Changes T
 CHAPTER TWELVE: Week Two - Installation
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 10: Before You Begin](10-before-you-begin.md) · [Contents](../README.md) · [Chapter 12: Week Two: Installation →](12-week-two-installation.md)

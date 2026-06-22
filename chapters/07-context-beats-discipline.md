@@ -1,5 +1,7 @@
 # Chapter 7: Context Beats Discipline
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## The Synthesis
 
 You might be wondering: wait, if identity is everything, why does the next chapter argue that context is everything?
@@ -251,5 +253,7 @@ Wood, Wendy, and David T. Neal. "A New Look at Habits and the Habit-Goal Interfa
 CHAPTER EIGHT: The Wiring Rules
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 6: The Identity Trap](06-the-identity-trap.md) · [Contents](../README.md) · [Chapter 8: The Wiring Rules →](08-the-wiring-rules.md)

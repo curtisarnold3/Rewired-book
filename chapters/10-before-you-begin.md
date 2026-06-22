@@ -1,5 +1,7 @@
 # Chapter 10: Before You Begin
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## Before You Begin
 
 ## Why 21 Days (And What Happens After)
@@ -279,5 +281,7 @@ Parkinson, C. Northcote. "Parkinson's Law." The Economist, 19 November 1955.
 Wilson, Timothy D. \*Strangers to Ourselves: Discovering the Adaptive Unconscious\*. Belknap Press, 2002. \\ CHAPTER ELEVEN: Week One - Interruption
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 9: The FEAR Formula](09-the-fear-formula.md) · [Contents](../README.md) · [Chapter 11: Week One: Interruption →](11-week-one-interruption.md)

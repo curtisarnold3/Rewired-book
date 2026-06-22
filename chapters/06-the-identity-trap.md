@@ -1,5 +1,7 @@
 # Chapter 6: The Identity Trap
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## The Identity Trap
 
 Here's a thought experiment.
@@ -227,5 +229,7 @@ Kitayama, Shinobu, and Robert J. Tompson. "A Biosocial Model of Affective Decisi
 Zimbardo, Philip. \*The Lucifer Effect: Understanding How Good People
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 5: The Two Systems at War](05-the-two-systems-at-war.md) · [Contents](../README.md) · [Chapter 7: Context Beats Discipline →](07-context-beats-discipline.md)

@@ -1,5 +1,7 @@
 # Chapter 17: Day 22 and Beyond
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 Congratulations. The installation is complete.
 
 You’ve done 21 days of intensive behavioral reprogramming. You’ve proven to your nervous system that you can sustain this behavior. You’ve created new neural pathways and begun weakening the old ones.
@@ -275,5 +277,7 @@ Gollwitzer, Peter M. "Implementation Intentions: Strong Effects of Simple Plans.
 Gollwitzer, Peter M., and Paschal Sheeran. "Implementation Intentions and Goal Achievement: A Meta-Analysis of Effects and Processes." Advances in Experimental Social Psychology, vol. 38, 2006, pp. 69-119.
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 16: The Complete Arc](16-the-complete-arc.md) · [Contents](../README.md) · [Appendices →](18-appendices.md)

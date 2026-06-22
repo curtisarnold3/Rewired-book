@@ -1,5 +1,7 @@
 # Chapter 15: Why Most People Won't Do This
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## Why Most People Won't Do This
 
 You've read this far. That already separates you from most people.
@@ -267,5 +269,7 @@ Baumeister, Roy F., and John Tierney. \*Willpower: Rediscovering the Greatest Hu
 CHAPTER SIXTEEN: The Complete Arc
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 14: What Actually Changed](14-what-actually-changed.md) · [Contents](../README.md) · [Chapter 16: The Complete Arc →](16-the-complete-arc.md)

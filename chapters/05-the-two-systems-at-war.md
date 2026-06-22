@@ -1,5 +1,7 @@
 # Chapter 5: The Two Systems at War
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 How Your Brain Actually Rewires (And Why Common Methods Ignore It)
 
 ## FATE Is the Diagnosis
@@ -236,5 +238,7 @@ Affective Neuroscience\*, vol. 8, no. 4, 2013, pp. 410-417. https://doi.org/10.1
 CHAPTER SIX: The Identity Trap
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 4: The Operating System: FATE](04-the-operating-system-fate.md) · [Contents](../README.md) · [Chapter 6: The Identity Trap →](06-the-identity-trap.md)

@@ -1,5 +1,7 @@
 # Chapter 13: Week Three: Stress Testing
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## Week Three: Stress Testing
 
 Days 15-21 This is where we find out what's actually installed.
@@ -321,5 +323,7 @@ Limited Resources: Does Self-Control Resemble a Muscle?" \*Psychological Bulleti
 PART FOUR
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 12: Week Two: Installation](12-week-two-installation.md) · [Contents](../README.md) · [Chapter 14: What Actually Changed →](14-what-actually-changed.md)

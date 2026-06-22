@@ -1,5 +1,7 @@
 # Chapter 9: The FEAR Formula
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## The FEAR Formula
 
 Here’s the paradox of personal change: the most effective tools for transformation were often discovered in the most demanding contexts. Military boot camps. Cult compounds. Elite training programs.
@@ -297,5 +299,7 @@ Lifton, Robert Jay. \*Thought Reform and the Psychology of Totalism: A Study of 
 Singer, Margaret Thaler, and Janja Lalich. \*Cults in Our Midst: The Continuing Fight Against Their Hidden Menace\*. Revised ed., Jossey-Bass, 2003. \\ CHAPTER TEN: Before You Begin
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 8: The Wiring Rules](08-the-wiring-rules.md) · [Contents](../README.md) · [Chapter 10: Before You Begin →](10-before-you-begin.md)

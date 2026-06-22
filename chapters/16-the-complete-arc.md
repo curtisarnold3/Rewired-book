@@ -1,5 +1,7 @@
 # Chapter 16: The Complete Arc
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## The Complete Arc
 
 Let me show you where this all fits.
@@ -271,5 +273,7 @@ Newport, Cal. \*Deep Work: Rules for Focused Success in a Distracted World\*. Gr
 Ryan, Richard M., and Edward L. Deci. "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being." American Psychologist, vol. 55, no. 1, 2000, pp. 68-78.
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 15: Why Most People Won't Do This](15-why-most-people-wont-do-this.md) · [Contents](../README.md) · [Chapter 17: Day 22 and Beyond →](17-day-22-and-beyond.md)

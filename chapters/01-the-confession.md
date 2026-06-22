@@ -1,5 +1,7 @@
 # Chapter 1: The Confession
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## The Confession
 
 Sarah had read forty-seven self-help books.
@@ -299,5 +301,7 @@ Review of Psychiatry\*, vol. 28, no. 6, 2020, pp. 371-394. https://doi.org/10.10
 Chapter 2: Making The Invisible Visible
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [Contents](../README.md) · [Chapter 2: The Wrong Target →](02-the-wrong-target.md)

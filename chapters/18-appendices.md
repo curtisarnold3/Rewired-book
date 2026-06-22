@@ -1,5 +1,7 @@
 # Appendices
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 *Tools, Templates & References*
 
 ## Your New Operating System
@@ -46,17 +48,17 @@ Check boxes as you complete each item. Do not read ahead.
 
 ☐ No judging, no changing---just observe ☐ Evening: Review list, identify top 3 most frequent patterns Day 2: The Pause Protocol ☐ Pick top 3 automatic behaviors from Day 1 list ☐ Before each: pause 10 seconds, then decide consciously
 
-☐ Track number of successful pauses ☐ Evening: Record total pause count: \\\\\\\\\\ Day 3: Friction Installation ☐ Identify single most problematic automatic behavior ☐ Add friction to it (delete app, move item, add steps)
+☐ Track number of successful pauses ☐ Evening: Record total pause count: _____ Day 3: Friction Installation ☐ Identify single most problematic automatic behavior ☐ Add friction to it (delete app, move item, add steps)
 
 ☐ Continue pause protocol for other behaviors ☐ Evening: Note what friction you installed and its effect Day 4: Environmental Sabotage ☐ 30 minutes restructuring physical space ☐ Remove/relocate visible temptations
 
 ☐ Create designated focus zone ☐ Unsubscribe from 5+ email lists ☐ Turn off all non-essential notifications ☐ Remove at least 1 attention-capture app Day 5: The Input Audit ☐ Track every information input today
 
-☐ Count: articles, videos, posts, conversations, notifications ☐ Evening: Categorize---Category 1 (chose) vs Category 2 (happened to you) ☐ Calculate percentage: Category 2 was \\\\\\\\\\% of total inputs
+☐ Count: articles, videos, posts, conversations, notifications ☐ Evening: Categorize---Category 1 (chose) vs Category 2 (happened to you) ☐ Calculate percentage: Category 2 was _____ % of total inputs
 
 Day 6: The Information Diet ☐ Unfollow/mute 20+ social media accounts ☐ Unsubscribe from 10+ more email lists ☐ Remove/hide at least 1 anxiety-generating news source ☐ Set specific windows for remaining information consumption
 
-Day 7: Week One Integration ☐ Count total successful pauses this week: \\\\\\\\\\ ☐ List automatic behaviors that decreased: \\\\\\\\\\ ☐ Note most difficult moment: \\\\\\\\\\ ☐ Review identity document (beliefs, behaviors, standards)
+Day 7: Week One Integration ☐ Count total successful pauses this week: _____ ☐ List automatic behaviors that decreased: _____ ☐ Note most difficult moment: _____ ☐ Review identity document (beliefs, behaviors, standards)
 
 ☐ Final environmental sweep---strengthen any weak friction points
 
@@ -64,17 +66,17 @@ Day 7: Week One Integration ☐ Count total successful pauses this week: \\\\\\\
 
 \*Objective: Install criteria-based decision making. Emotion becomes data, not authority.\* Day 8: The Criteria Shift ☐ Before every decision ask: "Improve position or satisfy impulse?" ☐ Write answer before acting
 
-☐ Decide based on answer, not feeling ☐ Evening: Count redirections from impulse to criteria: \\\\\\\\\\ Day 9: Build the Decision Matrix ☐ List all recurring decisions requiring in-moment thinking ☐ Write IF-THEN response for each situation
+☐ Decide based on answer, not feeling ☐ Evening: Count redirections from impulse to criteria: _____ Day 9: Build the Decision Matrix ☐ List all recurring decisions requiring in-moment thinking ☐ Write IF-THEN response for each situation
 
-☐ Write rules physically (not just in head) ☐ Post matrix somewhere visible Day 10: Matrix Testing ☐ Follow decision matrix regardless of feelings ☐ No exceptions---rules are rules ☐ Track: Matrix applied \\\\\\\\\\ times
+☐ Write rules physically (not just in head) ☐ Post matrix somewhere visible Day 10: Matrix Testing ☐ Follow decision matrix regardless of feelings ☐ No exceptions---rules are rules ☐ Track: Matrix applied _____ times
 
-☐ Track: Followed \\\\\\\\\\ times, Overrode \\\\\\\\\\ times Day 11: External Tracking ☐ Set up tracking system (paper, spreadsheet, or app) ☐ Track: Protocol Compliance (yes/no per rule) ☐ Track: Output Completion (yes/no)
+☐ Track: Followed _____ times, Overrode _____ times Day 11: External Tracking ☐ Set up tracking system (paper, spreadsheet, or app) ☐ Track: Protocol Compliance (yes/no per rule) ☐ Track: Output Completion (yes/no)
 
 ☐ Track: Pause Success Rate (count) ☐ Evening: Fill in all metrics Day 12: Eliminate "Just This Once" ☐ No exceptions to protocols today---none ☐ When urge arises: notice, label ("there's just this once"), execute rule anyway
 
-☐ Track "just this once" moments: \\\\\\\\\\ ☐ Track refusals: \\\\\\\\\\ Day 13: Closing Debate Loops ☐ When decision made, debate ends ☐ Notice post-decision debate, say "Decision is final. Execute."
+☐ Track "just this once" moments: _____ ☐ Track refusals: _____ Day 13: Closing Debate Loops ☐ When decision made, debate ends ☐ Notice post-decision debate, say "Decision is final. Execute."
 
-☐ Take action immediately---no more processing ☐ Track debate loops closed: \\\\\\\\\\ Day 14: Week Two Integration ☐ Calculate average protocol compliance rate: \\\\\\\\\\% ☐ Identify easy vs. resistant matrix rules
+☐ Take action immediately---no more processing ☐ Track debate loops closed: _____ Day 14: Week Two Integration ☐ Calculate average protocol compliance rate: _____ % ☐ Identify easy vs. resistant matrix rules
 
 ☐ Revise matrix based on what you've learned ☐ Review arrival conditions and Future A/B scenarios ☐ Prepare for Week Three stress testing
 
@@ -84,7 +86,7 @@ Day 7: Week One Integration ☐ Count total successful pauses this week: \\\\\\\
 
 ☐ Prepare mentally: tomorrow tests the installation Day 16: Operating Under Fatigue ☐ Execute decision matrix with zero modifications while tired ☐ Track moments fatigue tried to override protocols ☐ Note compliance despite discomfort
 
-☐ Compliance rate today: \\\\\\\\\\% Day 17: Time Compression ☐ Reduce productive time by 25% ☐ Same outputs expected in less time ☐ Set hard deadline---no extensions ☐ Track: Hit outputs? Y/N. What got cut?
+☐ Compliance rate today: _____ % Day 17: Time Compression ☐ Reduce productive time by 25% ☐ Same outputs expected in less time ☐ Set hard deadline---no extensions ☐ Track: Hit outputs? Y/N. What got cut?
 
 Day 18: Combined Pressure ☐ Continue reduced sleep (90 min less) ☐ Continue time compression (25% less) ☐ Execute all protocols---same standards ☐ Track compliance, output, pause rate Day 19: Social Stress Testing
 
@@ -106,7 +108,7 @@ Pre-built templates for common behavior categories. Customize for your specific 
 
 ----------------------------------------------------------------------- IF (Trigger) THEN (Response) -------------------------------- -------------------------------------- I feel urge to check phone 10-second pause, then ask "improve position?" before acting
 
-I want to check email Only at scheduled times: \\am / \\pm / \\\\\\pm I receive a notification Ignore until next scheduled check window
+I want to check email Only at scheduled times: _____ am / _____ pm / _____ pm I receive a notification Ignore until next scheduled check window
 
 I want to scroll social media Set 10-minute timer; close when it ends regardless I receive non-urgent message Respond within 24 hours, not immediately
 
@@ -134,7 +136,7 @@ Someone criticizes my new Thank them for input; continue behaviors protocol ----
 
 ----------------------------------------------------------------------- IF (Trigger) THEN (Response) -------------------------------- -------------------------------------- I want to snack between meals Drink water; wait 20 minutes; reassess
 
-I don't feel like exercising Put on workout clothes; do 10 minutes; then decide I'm tempted to stay up late Devices off at \\pm; in bed by \\pm
+I don't feel like exercising Put on workout clothes; do 10 minutes; then decide I'm tempted to stay up late Devices off at _____ pm; in bed by _____ pm
 
 I feel stressed and want comfort 5-minute walk first; then decide with food criteria -----------------------------------------------------------------------
 
@@ -148,7 +150,7 @@ Fill in each section. Read this document every morning during the protocol.
 
 I am:
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \*(Examples: "a creator who ships" / "an athlete" / "someone who keeps promises" / "a builder")\*
+ ________________________________________ \*(Examples: "a creator who ships" / "an athlete" / "someone who keeps promises" / "a builder")\*
 
 #### Three Beliefs This Person Holds
 
@@ -160,9 +162,9 @@ I am:
 
 #### Three Standards This Person Never Negotiates
 
-\*What are the hard lines this person never crosses? (Start with "I do not...")\* 1. I do not \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\*What are the hard lines this person never crosses? (Start with "I do not...")\* 1. I do not ________________________________________ 
 
-2\. I do not \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 3. I do not \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+2\. I do not ________________________________________ 3. I do not ________________________________________ 
 
 #### My Arrival Conditions
 
@@ -196,69 +198,49 @@ Run this scan a few times before completing the worksheet. You'll catch triggers
 
 **Apps that pull attention:**
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
+1. Trigger: __________  → Intervention: __________
+2. Trigger: __________  → Intervention: __________
+3. Trigger: __________  → Intervention: __________
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
+**Websites that consume time:**
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
+1. Trigger: __________  → Intervention: __________
+2. Trigger: __________  → Intervention: __________
+3. Trigger: __________  → Intervention: __________
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
+**Notifications that interrupt:**
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Websites that consume time:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Notifications that interrupt:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+1. Trigger: __________  → Intervention: __________
+2. Trigger: __________  → Intervention: __________
+3. Trigger: __________  → Intervention: __________
 
 #### Physical Triggers
 
 **Locations that trigger old behaviors:**
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
+1. Trigger: __________  → Intervention: __________
+2. Trigger: __________  → Intervention: __________
+3. Trigger: __________  → Intervention: __________
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
+**Objects that pull attention:**
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Objects that pull attention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+1. Trigger: __________  → Intervention: __________
+2. Trigger: __________  → Intervention: __________
+3. Trigger: __________  → Intervention: __________
 
 #### Social Triggers
 
 **People who reinforce old patterns:**
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
+1. Trigger: __________  → Intervention: __________
+2. Trigger: __________  → Intervention: __________
+3. Trigger: __________  → Intervention: __________
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
+**Conversations/topics that derail:**
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Conversations/topics that derail:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\ → Intervention:
-
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+1. Trigger: __________  → Intervention: __________
+2. Trigger: __________  → Intervention: __________
+3. Trigger: __________  → Intervention: __________
 
 ## APPENDIX E
 
@@ -322,7 +304,7 @@ Christakis, Nicholas A., and James H. Fowler. Connected. Little, Brown, 2009.
 
 Common failure points with specific interventions.
 
-#### "I keep breaking on Day \\\\\\"
+#### "I keep breaking on Day _____ "
 
 Diagnosis: The specific day likely has an environmental trigger or emotional pattern you haven't addressed.
 
@@ -352,7 +334,7 @@ Schedule weekly stress test days - Review identity document daily again - Re-eng
 
 Diagnosis: Your decision matrix isn't specific enough, or you haven't fully committed to criteria over feelings.
 
-Interventions: - Make decision matrix rules more specific (no "it depends") - Add binary rules: "I always..." or "I never..." - Post rules visibly and consult before deciding - Practice saying "Decision is final. Execute." out loud - Add consequence for negotiation (donate \\20 to disliked cause each time) - Track negotiations daily---awareness often reduces them
+Interventions: - Make decision matrix rules more specific (no "it depends") - Add binary rules: "I always..." or "I never..." - Post rules visibly and consult before deciding - Practice saying "Decision is final. Execute." out loud - Add consequence for negotiation (donate $20 to disliked cause each time) - Track negotiations daily---awareness often reduces them
 
 #### "I don't feel different"
 
@@ -387,5 +369,7 @@ Interventions: - Celebrate the catch. Awareness is the first intervention. - Whe
 **--- END ---**
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 17: Day 22 and Beyond](17-day-22-and-beyond.md) · [Contents](../README.md)

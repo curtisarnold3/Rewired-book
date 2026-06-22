@@ -1,5 +1,7 @@
 # Chapter 12: Week Two: Installation
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## Week Two: Installation
 
 Days 8-14 Week Two is where most people fail.
@@ -303,5 +305,7 @@ Zeigarnik, Bluma. "On Finished and Unfinished Tasks." \*Psychologische Forschung
 CHAPTER THIRTEEN: Week Three - Stress Testing
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 11: Week One: Interruption](11-week-one-interruption.md) · [Contents](../README.md) · [Chapter 13: Week Three: Stress Testing →](13-week-three-stress-testing.md)

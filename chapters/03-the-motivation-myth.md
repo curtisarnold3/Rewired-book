@@ -1,5 +1,7 @@
 # Chapter 3: The Motivation Myth
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## Draft Your Arrival
 
 By now you understand why vague goals fail—they give your RAS nothing to lock onto. Let’s deepen the arrival condition you created in Chapter 1.
@@ -289,5 +291,7 @@ Notice how it feels. Notice the slight discomfort. That discomfort is your brain
 That’s agitation—and you’re about to learn how to weaponize it. https://doi.org/10.1146/annurev-psych-122414-033417 \\ CHAPTER FOUR: The Real Operating System
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 2: The Wrong Target](02-the-wrong-target.md) · [Contents](../README.md) · [Chapter 4: The Operating System: FATE →](04-the-operating-system-fate.md)

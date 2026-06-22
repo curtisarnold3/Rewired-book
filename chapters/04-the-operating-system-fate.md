@@ -1,5 +1,7 @@
 # Chapter 4: The Operating System: FATE
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## The Real Operating System
 
 In the spring of 1978, over nine hundred people drank poisoned Flavor Aid in the jungles of Guyana.
@@ -265,5 +267,7 @@ Milgram, Stanley. "Behavioral Study of Obedience." \*Journal of Abnormal and Soc
 Affective Neuroscience\*, vol. 8, no. 3, 2013, pp. 341-350. https://doi.org/10.1093/scan/nss002 Zajonc, Robert B. "Attitudinal effects of mere exposure." \*Journal of Personality and Social Psychology\*, vol. 9, no. 2, 1968, pp. 1-27. https://doi.org/10.1037/h0025848 PART TWO
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 3: The Motivation Myth](03-the-motivation-myth.md) · [Contents](../README.md) · [Chapter 5: The Two Systems at War →](05-the-two-systems-at-war.md)

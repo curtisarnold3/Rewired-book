@@ -1,5 +1,7 @@
 # Chapter 2: The Wrong Target
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## Your First Assignment
 
 Don’t wait until the end of this book to start. Your RAS is listening right now, and every hour you spend in passive reading mode is an hour it’s not hunting for your goals.
@@ -301,5 +303,7 @@ Affective Neuroscience\*, vol. 8, no. 3, 2013, pp. 341-350. https://doi.org/10.1
 Chapter 3: Arrival Conditions
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 1: The Confession](01-the-confession.md) · [Contents](../README.md) · [Chapter 3: The Motivation Myth →](03-the-motivation-myth.md)

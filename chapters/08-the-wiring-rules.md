@@ -1,5 +1,7 @@
 # Chapter 8: The Wiring Rules
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 ## The Wiring Rules
 
 Think about the last time your smoke detector's battery started dying.
@@ -217,5 +219,7 @@ Milgram, Stanley. "Behavioral Study of Obedience." \*Journal of Abnormal and Soc
 CHAPTER NINE: The FEAR Formula
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 7: Context Beats Discipline](07-context-beats-discipline.md) · [Contents](../README.md) · [Chapter 9: The FEAR Formula →](09-the-fear-formula.md)

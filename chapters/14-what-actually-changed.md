@@ -1,5 +1,7 @@
 # Chapter 14: What Actually Changed
 
+> **Companion app:** Work this protocol step by step at [startrewired.com](https://www.startrewired.com).
+
 *Living Inside Your New Operating System*
 
 
@@ -246,5 +248,7 @@ Wood, Wendy. \*Good Habits, Bad Habits: The Science of Making Positive Changes T
 CHAPTER FIFTEEN: The Maintenance Phase
 
 ---
+
+**Ready to do the work?** Start or continue your protocol at [startrewired.com](https://www.startrewired.com).
 
 [← Chapter 13: Week Three: Stress Testing](13-week-three-stress-testing.md) · [Contents](../README.md) · [Chapter 15: Why Most People Won't Do This →](15-why-most-people-wont-do-this.md)
